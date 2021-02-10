@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### <codersrank-skills-chart username="vagg tsop"></codersrank-skills-chart>
 <!--
 **VagTsop/VagTsop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
