@@ -1,7 +1,7 @@
 <script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
 
 ### Hi there 👋
-### <codersrank-skills-chart username="vagg tsop"></codersrank-skills-chart>
+ <codersrank-skills-chart username="vagg tsop"></codersrank-skills-chart>
 <!--
 **VagTsop/VagTsop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
