@@ -1,9 +1,3 @@
-## Github Widget
-
-![Github Widget Image](http://i.imgur.com/KfiQIXL.png)
-
-#### How to use
-
 
 ##### Copy paste this code in your HTML, replacing data-username with your GitHub username
 
