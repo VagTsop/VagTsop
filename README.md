@@ -3,6 +3,6 @@
 
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=vagg_tsop&skills=JavaScript,TypeScript&show-other-skills=true"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=vagg tsop&skills=JavaScript,TypeScript&show-other-skills=true"
 />
 
