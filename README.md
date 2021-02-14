@@ -6,6 +6,7 @@
 <head>
     <meta charset="utf-8">
     <title></title>
+     <script src="/dist/github-widget.esm.mjs" type="module"></script>
 </head>
 <body>
   <github-w user="VagTsop">
@@ -16,7 +17,7 @@
         >
     </profile-info>
 </github-w>
- <script src="/dist/github-widget.esm.mjs" type="module"></script>
+
 </body>
 </html>
 
