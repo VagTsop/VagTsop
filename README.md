@@ -1,9 +1,14 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VagTsop)](https://github.com/VagTsop/github-readme-stats
 
 
-<script src="/dist/github-widget.esm.mjs" type="module"></script>
-
-<github-w user="VagTsop">
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title></title>
+</head>
+<body>
+  <github-w user="VagTsop">
     <profile-info 
         data-theme="light"
         data-company="true"
@@ -11,3 +16,10 @@
         >
     </profile-info>
 </github-w>
+ <script src="/dist/github-widget.esm.mjs" type="module"></script>
+</body>
+</html>
+
+
+
+
