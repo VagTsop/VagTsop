@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VagTsop)
-<div>
+<span style="padding-left= 10px;">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagTsop" />
-<div>
+</span>
 
