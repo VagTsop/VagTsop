@@ -3,4 +3,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagTsop" />
 </span>
 
-<codersrank-summary username="YOUR_USERNAME"></codersrank-summary>
+<codersrank-summary username="VagTsop"></codersrank-summary>
